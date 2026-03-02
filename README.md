@@ -20,7 +20,7 @@ Aplicación web interactiva para el análisis exploratorio de datos de vehículo
 
 Puedes probar la aplicación desplegada en Render aquí:
 
- **[https://proyecto-vehiculos.onrender.com](https://proyecto-vehiculos.onrender.com)**
+ **[https://proyecto-de-sprint-7.onrender.com](https://proyecto-de-sprint-7.onrender.com)**
 
 ##  Estructura del proyecto
 
